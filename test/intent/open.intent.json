@@ -1,0 +1,7 @@
+{
+  "utterance": "open the roof to my car",
+  "intent_type": "OpenIntent",
+  "intent": {
+    "ThankYouKeyword": "open the roof to my car"
+  }
+}
