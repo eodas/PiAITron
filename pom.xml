@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.piiottron</groupId>
-	<artifactId>Pi_IoT_Tron</artifactId>
+	<artifactId>Pi_AI</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
