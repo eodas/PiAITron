@@ -1,15 +1,15 @@
-# PiAI Pi IoT RPi (Pi IoT Tron) - INTERNET OF THINGS (IoT) :: Internet of Things Drools-jBPM Expert System using Pi IoT Tron AI-IoTBPMServer
+# PiAI Pi AI (Pi AI) - INTERNET OF THINGS (IoT) :: Internet of Things Drools-jBPM Expert System using Pi AI Tron AI-IoTBPMServer
 
-![alt tag](http://iotbpm.com/wp-content/uploads/2019/07/RaspberryPiArduino.3.png "Raspberry Pi IoT Tron")
+![alt tag](http://iotbpm.com/wp-content/uploads/2019/07/RaspberryPiArduino.3.png "Raspberry Pi AI Tron")
 
 PiAI the artificial intelligent voice assistant for your IoT devices control and interaction. PiAI is an intelligent piece of software for voice communication with all of your IoT devices and machines.
 
-Raspberry Pi IoT Tiles control smart office automation and monitoring is a control panel (dashboard) for Raspberry Pi IoT Tron Things, like the Raspberry Pi Tron IoT Web Cameras.
+Raspberry Pi AI Tiles control smart office automation and monitoring is a control panel (dashboard) for Raspberry Pi AI Tron Things, like the Raspberry Pi Tron IoT Web Cameras.
 
-### Raspberry Pi IoT (Pi IoT Tron) - INTERNET OF THINGS (IoT)
+### Raspberry Pi AI (Pi AI Tron) - INTERNET OF THINGS (IoT)
 
 Executive Order Corp - RPi Tron - MQTT Telemetry Transport Machine-to-Machine(M2M)/Internet of Things(IoT)
-Raspberry Pi IoT Tron :: EOSPY-Executive Order Sensor Processor System - Arduino Tron MQTT AI-IoT Client using EOSpy AI-IoT Drools-jBPM
+Raspberry Pi AI Tron :: EOSPY-Executive Order Sensor Processor System - Arduino Tron MQTT AI-IoT Client using EOSpy AI-IoT Drools-jBPM
 
 This is a skill for picroft that will interact with the GPIO
 
@@ -83,27 +83,27 @@ Arduino Tron :: EOSPY-Executive Order Sensor Processor System - Arduino Tron MQT
 The power of the IoT (Internet of Things) device increases greatly when business process (jBPM) can use them to provide information
 about our real-world as well as execute IoT (devices) as part of our business process. The jBPM-BPMN modular allow us to define 
 both the Business Processes and IoT Devices Behavior at the same time using one diagram. With EOSpy adding Drools-jBPM to IoT,
-we make the IoT devices â€œsmartâ€�. Moving beyond just collecting IoT data and transitioning, to leveraging the new wealth of IoT data, 
+we make the IoT devices Ã¢â‚¬Å“smartÃ¢â‚¬ï¿½. Moving beyond just collecting IoT data and transitioning, to leveraging the new wealth of IoT data, 
 to improving the smart decision making is the key. Executive Order EOSpy Arduino Tron AI-IoT will help these IoT devices, environments 
 and products to self-monitor, self-diagnose and eventually, self-direct.
 
-RPi IoT Tron Java â€” Automation Alert Monitoring â€“ A Java version of the RPi IoT Tron â€“ Executive Order Sensor Processor System Client.
+Pi AI Tron Java Ã¢â‚¬â€� Automation Alert Monitoring Ã¢â‚¬â€œ A Java version of the Pi AI Tron Ã¢â‚¬â€œ Executive Order Sensor Processor System Client.
  
-The RPi IoT Tron Java Client application allows you to transmit automation and remote monitoring system information directly to the EOSPY Server 
+The Pi AI Tron Java Client application allows you to transmit automation and remote monitoring system information directly to the EOSPY Server 
 from your own Java application. Monitor buildings, servers, vehicles and people from anywhere in the world and post there status and condition 
-directly to the EOSPY Server from your own application. Stay connected and informed to whatâ€™s important. The EOSPY Executive Order Spy Java Client
+directly to the EOSPY Server from your own application. Stay connected and informed to whatÃ¢â‚¬â„¢s important. The EOSPY Executive Order Spy Java Client
 is a GPS tracking automation and remote monitoring system that is a complete custom package for your business or office. Its wireless GPS tracking 
 allows you to monitor your office, systems, personal property, and business from anywhere in the world. 
 
 Receive information from any number of events like when an employee arrives on-site, where a vehicle is located and even receive remote ambient light intensity, 
 temperature, humidity and other information. An alarm is triggered if the SOS button is pressed or the vehicle has exceeded the speed you defined. 
-The RPi IoT Tron Java ties all location and environment monitoring information on one GPS Map Screen.
+The Pi AI Tron Java ties all location and environment monitoring information on one GPS Map Screen.
 
 Monitor buildings, servers, vehicles and people from anywhere in the world and post there status and condition directly to the EOSPY Server from your own application. 
-Stay connected and informed to whatâ€™s important. The EOSPY Executive Order Spy Java Client is a GPS tracking automation and remote monitoring system that is a complete
+Stay connected and informed to whatÃ¢â‚¬â„¢s important. The EOSPY Executive Order Spy Java Client is a GPS tracking automation and remote monitoring system that is a complete
 custom package for your business or office. Its wireless GPS tracking allows you to monitor your office, systems, personal property, and business from anywhere in the world. Receive information from any number of events like when an employee arrives on-site, where a vehicle is located and even receive remote ambient light intensity, temperature, humidity and other information. An alarm is triggered if the SOS button is pressed or the vehicle has exceeded the speed you defined. The EOSPY Java ties all location and environment monitoring information on one GPS Map Screen.
 
-Executive Order Spy â€” This quick guide will help you install and configure the EOSPY â€“ Executive Order Sensor Processor System components.
+Executive Order Spy Ã¢â‚¬â€� This quick guide will help you install and configure the EOSPY Ã¢â‚¬â€œ Executive Order Sensor Processor System components.
 
 [] The EOSPY AI-IoT Arduino Tron Server software interface allows you to send commands with the EOSPY AI-IoT software to control external Arduino connected devices.
 The AI-IoT Arduino Tron Server software uses a WiFi Wireless Transceiver interface to control and interact with module sensors and remote controls devices. You can 
