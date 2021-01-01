@@ -73,7 +73,7 @@ platform_mark1 platform_picroft
 ## Tags
 #IoT
 #GPIO
-#RPi
+#RPi 
 
 # EOSpy AI-IoT :: Internet of Things Drools-jBPM Arduino Tron
 
@@ -116,4 +116,4 @@ you can automatically turn on lights, appliances, cameras, and open doors from t
 on the server room increases X degrees in Y minutes, where sensor readings are usually denoted by events example drools.drl file:
 
 - Executive Order Corporation
-- Copyright - 1978, 2020: Executive Order Corporation, All Rights Reserved
+- Copyright - 1978, 2021: Executive Order Corporation, All Rights Reserved
