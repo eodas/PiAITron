@@ -229,9 +229,9 @@ def serverSendPost(keypress_parm, textMessage_parm, alarm_parm):
     # 'light': light,
 
     # sending get request and saving the response as response object 
-    # #resp = requests.get(url=URL, params=PARAMS)
+    resp = requests.get(url=URL, params=PARAMS)
 
-    # #print(">>> Connection Status:", resp.status_code)
+    print(">>> Connection Status:", resp.status_code)
     return
 
 def ButtonHandeler(channel):
