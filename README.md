@@ -1,10 +1,16 @@
-# PiAI Pi AI Tron - INTERNET OF THINGS (IoT) :: Internet of Things Drools-jBPM Expert System using Pi AI Tron AI-IoTBPMServer
+# Pi AI Tron - INTERNET OF THINGS (IoT) :: Internet of Things General AI Software for your IoT Machines
 
-![alt tag](http://iotbpm.com/wp-content/uploads/2019/07/RaspberryPiArduino.3.png "Raspberry Pi AI Tron")
+![alt tag](https://iotbpm.com/wp-content/uploads/2021/04/Pi_AI_IoT.jpg "Raspberry Pi AI Tron")
 
-PiAI the artificial intelligent voice assistant for your IoT devices control and interaction. PiAI is an intelligent piece of software for voice communication with all of your IoT devices and machines.
+Pi AI IoT Tron the artificial intelligent voice assistant for your IoT devices control and interaction. Pi AI Tron is an intelligent piece of software for voice communication with all of your IoT devices and machines.
 
-Raspberry Pi AI Tiles control smart office automation and monitoring is a control panel (dashboard) for Raspberry Pi AI Tron Things, like the Raspberry Pi Tron IoT Web Cameras.
+Raspberry Pi AI Tron control smart office automation and monitoring is a voice control for Raspberry Pi AI Tron Things, like the Raspberry Pi Tron IoT Web Cameras.
+
+The Raspberry Pi 4 is probably the easiest and most affordable way to get started with our AI-IoT. An artificial general intelligence and interactive voice assistant for your IoT devices, our powerful Raspberry Pi AI software is a computational knowledge engine. Your internet of things systems of interrelated computing devices, mechanical and digital machines, shop floor, office automation and field devices can now have the ability of natural human voice interaction. See www.PiIoTTron.com
+
+With our artificial intelligent general knowledge engine for your IoT devices, you can now ask general-knowledge questions from your IoT devices. Our artificial intelligent voice assistant is an intelligent piece of software for communicating with your IoT devices and machines. It gives you natural IoT device control and interaction. Combine this with the vast knowledge of the internet and you will be surprised by how much your business IoT devices can interact with you and the world.
+
+Expanding on the information you now have available, you can ask Pi AI about things like “how the weather or traffic may affect your IoT field tracking devices.” The AI Pi revolutionary interface to your enterprise data and IoT devices allows your employees and customers to access, analyze, and interact with your business data like never before - making information analysis and management broadly available - this kind of information you will need for your competitive advantage.
 
 ### Raspberry Pi AI Tron - INTERNET OF THINGS (IoT)
 
